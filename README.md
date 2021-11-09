@@ -1,3 +1,5 @@
+![](https://github.com/soo-github/soo-github/raw/main/assets/james-sutton-dQ5G0h7sLno-unsplash.jpg)
+
 # 김수인
 
 ## Python 배우는 중
