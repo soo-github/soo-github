@@ -1,4 +1,5 @@
-![](https://github.com/soo-github/soo-github/raw/main/assets/james-sutton-dQ5G0h7sLno-unsplash.jpg)
+![](https://github.com/soo-github/soo-github/raw/main/assets/soo-github.png)
+![](https://github.com/soo-github/soo-github/raw/main/assets/METABUS.png)
 
 # 김수인
 
